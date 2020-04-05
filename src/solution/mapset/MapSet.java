@@ -1,4 +1,4 @@
-package mapset;
+package solution.mapset;
 
 import java.util.*;
 
